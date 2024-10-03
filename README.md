@@ -9,5 +9,5 @@ A basic example that uses BCMath for precise addition and subtraction of balance
 ### 2. Money Pattern (MoneyPatternBcBalance.php)
 Introduces the Money Pattern, encapsulating monetary values and ensuring safe operations.
 
-### 3. Money Pattern with Transactions (MoneyPatternGmpBalanceTransactions.php)
+### 3. Money Pattern with Transactions and integer storage (MoneyPatternGmpBalanceTransactions.php)
 Combines the Money Pattern with transaction logging and GMP for large integer handling.
